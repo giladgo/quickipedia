@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body {
-  margin: 4em;
+  margin: 5%;
   background: #d4d4d4;
   text-align: center;
   font-family: "Helvetica Neue", "HelveticaNeue", Helvetica, sans-serif;
@@ -31,5 +31,5 @@ input#query-text {
   background-color: #ddd;
   width: 90%;
   margin: 4vw auto;
-  font-family: monospace;
+  font-family: serif;
 }
