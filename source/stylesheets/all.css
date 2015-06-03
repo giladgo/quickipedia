@@ -18,4 +18,17 @@ input#query-text {
   font-weight: 100;
   border: solid 1px #ccc;
   padding: 0.172em;
+  width: 90%;
+  text-align: center;
+}
+
+#result {
+  line-height: 2em;
+  font-weight: 200;
+  font-size: 2em;
+  margin-top: 3em;
+  background-color: #ddd;
+  width: 90%;
+  margin: 3em auto;
+  font-family: monospace;
 }
