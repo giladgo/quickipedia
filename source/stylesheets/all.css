@@ -7,7 +7,7 @@
 body {
   margin: 5%;
   margin-top: 3vw;
-  background: #d4d4d4;
+  background: #EEF6FF;
   text-align: center;
   font-family: "Helvetica Neue", "HelveticaNeue", Helvetica, sans-serif;
 
@@ -46,13 +46,14 @@ input#query-text {
   font-weight: 200;
   font-size: 2.8vw;
   margin-top: 0;
-  background-color: #eee;
+  background-color: #FFF1F7;
   width: 90%;
   margin: 0 auto;
   text-align: left;
   font-family: 'Lora', serif;
   padding: 2em 3em;
   box-sizing: border-box;
+  box-shadow: 0px 0px 5px rgba(199, 192, 194, 0.65);
 }
 
 #result p {
@@ -78,4 +79,5 @@ input#query-text {
   background-color: white;
   width: 90%;
   margin: 0 auto;
+  box-shadow: 0px 0px 5px rgba(199, 192, 194, 0.65);
 }
