@@ -8,6 +8,7 @@
  * Corrects `block` display not defined in IE 8/9.
  */
 
+
 article,
 aside,
 details,
@@ -277,8 +278,7 @@ textarea {
  * the UA stylesheet.
  */
 
-button,
-input {
+input#query-text {
     line-height: normal;
 }
 
